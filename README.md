@@ -1,12 +1,12 @@
 ![App Developer](https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg)
 
-## Hi there 👋, I am Farida Eyasmin Soma
-### App Developer
+### Hi there 👋, I am Farida Eyasmin Soma
+#### App Developer
 
 
  A budding mobile app developer with a focus on Flutter. Passionate about crafting sleek and intuitive experiences, I'm diving deep into Flutter to bring my ideas to life. Let's connect and explore the world of mobile app development together! 💻🚀
 
-- 🔭 I’m currently working on ZenthhBD as an Intern 
+- 🔭 I’m currently working on ZenithhBD as an Intern 
 - 🌱 I’m currently learning Flutter 
 - 📫 How to reach me: faridaeyasmin456@gmail.com 
 
